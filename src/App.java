@@ -15,12 +15,12 @@ public class App {
         }
 
         for (int i = 0; i < 12; i++) {
-            System.out.printf("|%3d|", i);
+            System.out.printf("%3d|", i);
         }
         System.out.println();
 
         for (int i = 0; i < 12; i++) {
-            System.out.printf("|%3d|", numeros[i]);
+            System.out.printf("%3d|", numeros[i]);
         }
     }
 }
