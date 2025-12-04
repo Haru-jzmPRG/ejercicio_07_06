@@ -24,7 +24,7 @@ public class App {
         // }
 
         //Corrección
-final int N = 12;          // Tamaño del array
+        final int N = 12;          // Tamaño del array
         int[] numero = new int[N]; // Array donde guardaremos los 12 números
         int i;                     // Variable índice para los bucles
 
